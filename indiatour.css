@@ -1,0 +1,975 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'SFProDisplay-Semibold';
+}
+
+main {
+    margin: 100px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading {
+    display: flex;
+}
+
+.india_tour_packages,
+.indiatour {
+    color: #FF6612;
+
+}
+
+.heading {
+    font-size: 30px;
+}
+
+.text1 {
+    font-family: 15px;
+}
+
+.know_more {
+    color: #ff6612;
+    font-size: 14px;
+    line-height: 24px;
+
+    border-bottom: 1px solid #ff6612;
+}
+
+.top_trending_place {
+    font-size: 30px;
+    font-weight: 600;
+
+    color: #3b404b;
+}
+
+
+.flex {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.content_main_1{
+    height: 350px;
+}
+.content_main_2{
+    height: 350px;
+}
+
+
+.container2_image {
+    height: 300px;
+    width: 3500px;
+    background-size: cover;
+    
+
+}
+.image1{
+    animation: z-index1 50s steps(10) 2s infinite normal;
+}
+
+.image2{
+    position: relative;
+    top: -300px;
+    animation: z-index2 50s steps(10) 2s infinite normal;
+}
+.image3{
+    position: relative;
+    top: -600px;
+    animation: z-index3 50s steps(10) 2s infinite normal;
+}
+.image4{
+    position: relative;
+    top: -900px;
+    animation: z-index4 50s steps(10) 2s infinite normal;
+}
+.image5{
+    position: relative;
+    top: -1200px;
+    animation: z-index5 50s steps(10) 2s infinite normal;
+}
+.image6{
+    position: relative;
+    top: -1500px;
+    animation: z-index6 50s steps(10) 2s infinite normal;
+}
+.image7{
+    position: relative;
+    top: -1800px;
+    animation: z-index7 50s steps(10) 2s infinite normal;
+}
+.image8{
+    position: relative;
+    top: -2100px;
+    animation: z-index8 50s steps(10) 2s infinite normal;
+}
+.image9{
+    position: relative;
+    top: -2400px;
+    animation: z-index9 50s steps(10) 2s infinite normal;
+}
+.image10{
+    position: relative;
+    top: -2700px;
+    animation: z-index10 50s steps(10) 2s infinite normal;
+}
+
+
+
+.image_1 {
+    background-image: url(box1images/banner-a.webp);
+    
+    
+}
+
+.image_2 {
+    background-image: url(box1images/humayun-tomb-delhi.webp);
+    
+
+}
+
+.image_3 {
+    background-image: url(box1images/mussoorie-nature.webp);
+
+    
+}
+
+.image_4 {
+    background-image: url(box1images/nainital-lake.webp);
+
+    
+}
+
+.image_5 {
+    background-image: url(box1images/ranikhet-beauty.webp);
+
+    
+}
+
+.image_6 {
+    background-image: url(box1images/ranikhet-nature.webp);
+
+    
+}
+
+.image_7 {
+    background-image: url(box1images/rishikesh-night.webp);
+   
+    
+}
+
+.image_8 {
+    background-image: url(box1images/delhi-kasauli-weekend-tour0.webp);
+    
+    
+}
+
+.image_9 {
+    background-image: url(box1images/delhi-kasauli-weekend-tour2.webp);
+}
+
+.image_10 {
+    background-image: url(box1images/mussoorie-nature.webp);
+
+}
+
+
+.imagecontent1{
+    background-color: aliceblue;
+    animation: z-index1 50s steps(10) 2s infinite normal;
+    
+}
+.imagecontent2{
+    background-color: aliceblue;
+    animation: z-index2 50s steps(10) 2s infinite normal;
+}
+.imagecontent3{
+    background-color: aliceblue;
+    animation: z-index3 50s steps(10) 2s infinite normal;
+}
+.imagecontent4{
+    background-color: aliceblue;
+    animation: z-index4 50s steps(10) 2s infinite normal;
+}
+.imagecontent5{
+    background-color: aliceblue;
+    animation: z-index5 50s steps(10) 2s infinite normal;
+}
+.imagecontent6{
+    background-color: aliceblue;
+    animation: z-index6 50s steps(10) 2s infinite normal;
+}
+.imagecontent7{
+    background-color: aliceblue;
+    animation: z-index7 50s steps(10) 2s infinite normal;
+}
+.imagecontent8{
+    background-color: aliceblue;
+    animation: z-index8 50s steps(10) 2s infinite normal;
+}
+.imagecontent9{
+    background-color: aliceblue;
+    animation: z-index9 50s steps(10) 2s infinite normal;
+}
+.imagecontent10{
+    background-color: aliceblue;
+    animation: z-index10 50s steps(10) 2s infinite normal;
+}
+
+
+@keyframes z-index1 {
+    0% {
+        z-index: 1;
+    }
+
+    10% {
+        z-index: 0;
+    }
+
+    20% {
+        z-index: 0;
+    }
+
+    30% {
+        z-index: 0;
+    }
+
+    40% {
+        z-index: 0;
+    }
+
+    50% {
+        z-index: 0;
+    }
+
+    60% {
+        z-index: 0;
+    }
+
+    70% {
+        z-index: 0;
+    }
+
+    80% {
+        z-index: 0;
+    }
+
+    90% {
+        z-index: 0;
+    }
+
+    100% {
+        z-index: 0;
+    }
+
+}
+
+@keyframes z-index2 {
+    0% {
+        z-index: 0;
+    }
+
+    10% {
+        z-index: 1;
+    }
+
+    20% {
+        z-index: 0;
+    }
+
+    30% {
+        z-index: 0;
+    }
+
+    40% {
+        z-index: 0;
+    }
+
+    50% {
+        z-index: 0;
+    }
+
+    60% {
+        z-index: 0;
+    }
+
+    70% {
+        z-index: 0;
+    }
+
+    80% {
+        z-index: 0;
+    }
+
+    90% {
+        z-index: 0;
+    }
+
+    100% {
+        z-index: 0;
+    }
+
+}
+
+@keyframes z-index3 {
+    0% {
+        z-index: 0;
+    }
+
+    10% {
+        z-index: 0;
+    }
+
+    20% {
+        z-index: 1;
+    }
+
+    30% {
+        z-index: 0;
+    }
+
+    40% {
+        z-index: 0;
+    }
+
+    50% {
+        z-index: 0;
+    }
+
+    60% {
+        z-index: 0;
+    }
+
+    70% {
+        z-index: 0;
+    }
+
+    80% {
+        z-index: 0;
+    }
+
+    90% {
+        z-index: 0;
+    }
+
+    100% {
+        z-index: 0;
+    }
+
+}
+
+@keyframes z-index4 {
+    0% {
+        z-index: 0;
+    }
+
+    10% {
+        z-index: 0;
+    }
+
+    20% {
+        z-index: 0;
+    }
+
+    30% {
+        z-index: 1;
+    }
+
+    40% {
+        z-index: 0;
+    }
+
+    50% {
+        z-index: 0;
+    }
+
+    60% {
+        z-index: 0;
+    }
+
+    70% {
+        z-index: 0;
+    }
+
+    80% {
+        z-index: 0;
+    }
+
+    90% {
+        z-index: 0;
+    }
+
+    100% {
+        z-index: 0;
+    }
+
+}
+
+@keyframes z-index5 {
+    0% {
+        z-index: 0;
+    }
+
+    10% {
+        z-index: 0;
+    }
+
+    20% {
+        z-index: 0;
+    }
+
+    30% {
+        z-index: 0;
+    }
+
+    40% {
+        z-index: 1;
+    }
+
+    50% {
+        z-index: 0;
+    }
+
+    60% {
+        z-index: 0;
+    }
+
+    70% {
+        z-index: 0;
+    }
+
+    80% {
+        z-index: 0;
+    }
+
+    90% {
+        z-index: 0;
+    }
+
+    100% {
+        z-index: 0;
+    }
+
+}
+
+@keyframes z-index6 {
+    0% {
+        z-index: 0;
+    }
+
+    10% {
+        z-index: 0;
+    }
+
+    20% {
+        z-index: 0;
+    }
+
+    30% {
+        z-index: 0;
+    }
+
+    40% {
+        z-index: 0;
+    }
+
+    50% {
+        z-index: 1;
+    }
+
+    60% {
+        z-index: 0;
+    }
+
+    70% {
+        z-index: 0;
+    }
+
+    80% {
+        z-index: 0;
+    }
+
+    90% {
+        z-index: 0;
+    }
+
+    100% {
+        z-index: 0;
+    }
+
+}
+
+@keyframes z-index7 {
+    0% {
+        z-index: 0;
+    }
+
+    10% {
+        z-index: 0;
+    }
+
+    20% {
+        z-index: 0;
+    }
+
+    30% {
+        z-index: 0;
+    }
+
+    40% {
+        z-index: 0;
+    }
+
+    50% {
+        z-index: 0;
+    }
+
+    60% {
+        z-index: 1;
+    }
+
+    70% {
+        z-index: 0;
+    }
+
+    80% {
+        z-index: 0;
+    }
+
+    90% {
+        z-index: 0;
+    }
+
+    100% {
+        z-index: 0;
+    }
+
+}
+
+@keyframes z-index8 {
+    0% {
+        z-index: 0;
+    }
+
+    10% {
+        z-index: 0;
+    }
+
+    20% {
+        z-index: 0;
+    }
+
+    30% {
+        z-index: 0;
+    }
+
+    40% {
+        z-index: 0;
+    }
+
+    50% {
+        z-index: 0;
+    }
+
+    60% {
+        z-index: 0;
+    }
+
+    70% {
+        z-index: 1;
+    }
+
+    80% {
+        z-index: 0;
+    }
+
+    90% {
+        z-index: 0;
+    }
+
+    100% {
+        z-index: 0;
+    }
+
+}
+
+@keyframes z-index9 {
+    0% {
+        z-index: 0;
+    }
+
+    10% {
+        z-index: 0;
+    }
+
+    20% {
+        z-index: 0;
+    }
+
+    30% {
+        z-index: 0;
+    }
+
+    40% {
+        z-index: 0;
+    }
+
+    50% {
+        z-index: 0;
+    }
+
+    60% {
+        z-index: 0;
+    }
+
+    70% {
+        z-index: 0;
+    }
+
+    80% {
+        z-index: 1;
+    }
+
+    90% {
+        z-index: 0;
+    }
+
+    100% {
+        z-index: 0;
+    }
+
+}
+
+@keyframes z-index10 {
+    0% {
+        z-index: 0;
+    }
+
+    10% {
+        z-index: 0;
+    }
+
+    20% {
+        z-index: 0;
+    }
+
+    30% {
+        z-index: 0;
+    }
+
+    40% {
+        z-index: 0;
+    }
+
+    50% {
+        z-index: 0;
+    }
+
+    60% {
+        z-index: 0;
+    }
+
+    70% {
+        z-index: 0;
+    }
+
+    80% {
+        z-index: 0;
+    }
+
+    90% {
+        z-index: 1;
+    }
+
+  
+
+    100% {
+        z-index: 0;
+    }
+
+}
+
+.Best_Selling_Destinations {
+    font-size: 30px;
+    font-weight: 600;
+    display: inline-block;
+
+    color: #3b404b;
+}
+
+.image11 {
+    background-image: url(states/rajasthan-tour-packages.webp);
+    animation: z-index1 10s steps(20) 2s infinite normal;
+}
+
+.image12 {
+    background-image: url(states/himachal-hill-stations.webp);
+    top: -60vh;
+    animation: z-index2 10s steps(20) 2s infinite normal;
+}
+
+.image13 {
+    background-image: url(states/jammu-kashmir-packages.webp);
+    top: -120vh;
+    animation: z-index3 10s steps(20) 2s infinite normal;
+}
+
+.image14 {
+    background-image: url(states/sikkim-tour-packages.webp);
+    top: -180vh;
+    animation: z-index4 10s steps(20) 2s infinite normal;
+}
+
+.image15 {
+    background-image: url(states/uttarakhand-packages.webp);
+    top: -240vh;
+    animation: z-index5 10s steps(20) 2s infinite normal;
+}
+
+.image16 {
+    background-image: url(states/kerala-travel-packages.webp);
+    top: -300vh;
+    animation: z-index6 10s steps(20) 2s infinite normal;
+}
+
+.image17 {
+    background-image: url(states/gujarat-tours.webp);
+    top: -360vh;
+    animation: z-index7 10s steps(20) 2s infinite normal;
+}
+
+.image18 {
+    background-image: url(states/tamilnadu-tours.webp);
+    top: -420vh;
+    animation: z-index8 10s steps(20) 2s infinite normal;
+}
+
+.image19 {
+    background-image: url(states/arunachal-tours.webp);
+    top: -480vh;
+    animation: z-index9 10s steps(20) 2s infinite normal;
+}
+
+.image20 {
+    background-image: url(states/aizawl.jpg);
+    top: -540vh;
+    animation: z-index10 10s steps(20) 2s infinite normal;
+}
+
+.destination{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+.link1{
+    color: #FF6612;
+    text-decoration: none;
+    width: 300px;
+    height: 35px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    
+
+}
+
+
+
+.link1:hover{
+    background-color: #FF6612;
+    color: aliceblue;
+}
+.indiaholidaypackagebyinterest{
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.wildlife_logo{
+    width: 40%;
+    height: 50vh;
+    background-image: url(choice/wildlife-tour-packages.webp);
+    background-repeat: no-repeat;
+}
+
+.container3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.font1{
+    font-size: 40px;
+}
+
+.no1{
+    font-size: 41px;
+}
+
+.knowmore1{
+    color: #FF6612;
+    line-height: 25px;
+    border-bottom: 3px solid #FF6612;
+    display: inline;
+}
+
+.wildlifeimage{
+    height: 150px;
+    width: 250px;
+}
+
+.wild_image1{
+    background-image: url(choice/wildlife/india-tiger-tour.webp);
+}
+.wild_image2{
+    background-image: url(choice/wildlife/bangalore-mysore-nagarhole-tour.webp);
+}
+.wild_image3{
+    background-image: url(choice/wildlife/sunderban-wilderness-tour.webp);
+}
+.wild_image4{
+    background-image: url(choice/wildlife/tigers-tour.webp);
+}
+.wild_image5{
+    background-image: url(choice/wildlife/wildlife-tour6.webp);
+}
+
+.container4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.wildlifetext{
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.wildlifesmalltext{
+    line-height: 15px;
+    font-size: 13px;
+    font-weight: 600;
+    color: rgba(128,128,128,0.7);
+}
+
+/* heritage portion */
+.heritage_logo{
+    width: 40%;
+    height: 50vh;
+    background-image: url(heritage/heritage-banner.webp);
+    background-repeat: no-repeat;
+}
+.heritage_image1{
+    background-image: url(heritage/6nights-7days-golden.webp);
+}
+.heritage_image2{
+    background-image: url(heritage/best-of-gujarat-heritage-tour.webp);
+}
+.heritage_image3{
+    background-image: url(heritage/forts-and-palaces-of-rajasthan.webp);
+}
+.heritage_image4{
+    background-image: url(heritage/historical-madhya-pradesh-tour.webp);
+}
+.heritage_image5{
+    background-image: url(heritage/south-heritage-tour.webp);
+}
+/* hhill-station portion */
+.hillstation_logo{
+    width: 40%;
+    height: 50vh;
+    background-image: url(hillstation/hill-station-banner.webp);
+    background-repeat: no-repeat;
+}
+.hillstation_image1{
+    background-image: url(hillstation/best-of-kashmir.webp);
+}
+.hillstation_image2{
+    background-image: url(hillstation/best-of-kaumoan-hills.webp);
+}
+.hillstation_image3{
+    background-image: url(hillstation/himachal-honeymoon-package.webp);
+}
+.hillstation_image4{
+    background-image: url(hillstation/nainital-mussoorie-tour.webp);
+}
+.hillstation_image5{
+    background-image: url(hillstation/splendor-of-kashmir.webp);
+}
+/* beach portion */
+.beach_logo{
+    width: 40%;
+    height: 50vh;
+    background-image: url(beach/beach-banner.webp);
+    background-repeat: no-repeat;
+}
+.beach_image1{
+    background-image: url(beach/backwater-and-beaches-of-kerala.webp);
+}
+.beach_image2{
+    background-image: url(beach/best-of-andamans-beaches.webp);
+}
+.beach_image3{
+    background-image: url(beach/best-of-india-beaches.webp);
+}
+.beach_image4{
+    background-image: url(beach/golden-triangle-with-goa.webp);
+}
+.beach_image5{
+    background-image: url(beach/royal-beach-holiday.webp);
+}
+/* honeymoon portion */
+.honeymoon_logo{
+    width: 40%;
+    height: 50vh;
+    background-image: url(honwymoon/honeymoon-banner.webp);
+    background-repeat: no-repeat;
+}
+.honeymoon_image1{
+    background-image: url(honwymoon/honeymoon-in-kerala.webp);
+}
+.honeymoon_image2{
+    background-image: url(honwymoon/honeymoon-in-kullumanali.webp);
+}
+.honeymoon_image3{
+    background-image: url(honwymoon/kashmir-honeymoon-tour.webp);
+}
+.honeymoon_image4{
+    background-image: url(honwymoon/nainital-mukteshwar-honeymoon.webp);
+}
+.honeymoon_image5{
+    background-image: url(honwymoon/romatic-rajasthan.webp);
+}
+/* adventure portion */
+.adventure_logo{
+    width: 40%;
+    height: 50vh;
+    background-image: url(adventure/adventure-banner.webp);
+    background-repeat: no-repeat;
+}
+.adventure_image1{
+    background-image: url(adventure/markha-valley-trek.webp);
+}
+.adventure_image2{
+    background-image: url(adventure/sham-valley-trek.webp);
+}
+.adventure_image3{
+    background-image: url(adventure/singalila-sandakphu-trek.webp);
+}
+.adventure_image4{
+    background-image: url(adventure/snow-leopard-trek.webp);
+}
+.adventure_image5{
+    background-image: url(adventure/source-of-ganges-trek.webp);
+}
